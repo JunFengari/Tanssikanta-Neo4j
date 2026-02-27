@@ -12,7 +12,9 @@ toisiinsa.
 
 Tämä tietokantaprojekti on osa Tietokantojen Jatko -kurssin lopputyöstä. 
 
-### Esittelyvideo: [Youtube](https://www.youtube.com/watch?v=38oey9RIrzI)
+### Esittelyvideo: 
+Oikea klikkaus ja avaa uudessa välilehdessä: [Youtube](https://www.youtube.com/watch?v=38oey9RIrzI)
+
 ---
 
 ## Asennus- ja käyttöohjeet
