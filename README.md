@@ -12,6 +12,9 @@ toisiinsa.
 
 Tämä tietokantaprojekti on osa Tietokantojen Jatko -kurssin lopputyöstä. 
 
+### Dokumentaatio:
+<a href="https://github.com/JunFengari/Tanssikanta-Neo4j/raw/main/Tanssikanta_Dokumentaatio.pdf" download>Download PDF</a>
+
 ### Esittelyvideo: 
 Oikea klikkaus ja avaa uudessa välilehdessä: [Youtube](https://www.youtube.com/watch?v=38oey9RIrzI)
 
