@@ -40,6 +40,11 @@ WITH s, COUNT(tap) AS tapahtumienMaara
 RETURN s.nimi AS Seurue, tapahtumienMaara;
 // tulos: Vividity 1, Joutsenet 1, Sambacha 2.
 
-// 7.	Stefan jää eläkkeelle, poistetaan hänet tietokannasta.
+// 7. Päivitä Rebeccan tanssikokemusta 6 vuoteen
+MATCH (rebu:Tanssija {nimi: "Rebecca"})
+SET rebu.kokemusVuodet = 6
+RETURN rebu;
+
+// 8.	Stefan jää eläkkeelle, poistetaan hänet tietokannasta.
 MATCH (t:Tanssija {nimi: "Stefan"})
 DETACH DELETE t;
