@@ -12,6 +12,9 @@ toisiinsa.
 
 Tämä tietokantaprojekti on osa Tietokantojen Jatko -kurssin lopputyöstä. 
 
+### Esittelyvideo: [Youtube](https://www.youtube.com/watch?v=38oey9RIrzI)
+---
+
 ## Asennus- ja käyttöohjeet
 
 1. Käy [Tanssikanta Neo4j GitHub](https://github.com/JunFengari/Tanssikanta-Neo4j) sivuilla, ja kloonaa
